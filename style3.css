@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(141, 163, 102);
+    color: black;
+   
+}
+h1 {
+    color: rgb(29, 53, 53);
+    font-size: 50px;
+    margin-left: 13cm;
+}
+#first ol {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: darkorange;
+}
+#second ol {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(62, 148, 66);
+}

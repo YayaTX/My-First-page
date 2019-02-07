@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(141, 163, 102);
+    color: black;
+   
+}
+h1 {
+    color: rgb(29, 53, 53);
+    margin-left: 17cm;
+    font-size: 50px;
+}
+ul {
+    font-size: 25px;
+    background-color: darkgrey;
+}
+ol {
+    background-color: darkgrey;
+    font-size: 25px;
+}
+#first p {
+    font-size: 25px;
+}
+#last p {
+    font-size: 25px;
+    background-color: coral;
+}

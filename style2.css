@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(141, 163, 102);
+    color: black;
+   
+}
+h1 {
+    color: rgb(29, 53, 53);
+    margin-left: 17cm;
+    font-size: 50px;
+}
+#first li {
+    font-size: 25px;
+    font-style: normal;
+    font-family: Helvetica, sans-serif;
+    background-color: darkgray;
+}
+#second li {
+    font-size: 25px;
+    font-style: normal;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(158, 106, 106);
+}
